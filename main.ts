@@ -147,6 +147,6 @@ forever(function () {
         . . . f f f f f f f . . . . . . 
         `],
     100,
-    true
+    false
     )
 })
